@@ -18,7 +18,7 @@ function getAndPrintHTML () {
     });
 
     response.on('end', function(){
-      console.log(output + '\n\nSteam Complete! :)');
+      console.log(output + '\n\nStream Complete! :)');
     });
 
 
